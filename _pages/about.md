@@ -1,11 +1,14 @@
 ---
 layout: page
-title: About Me
+title: About Us
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This will take you to Max.T's blog **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
+This will take you to Orlando.C's blog **[fastpages](https://github.com/Orlando-C/que-pro)** [^1].
 
+This will take you to Jaden.N's blog **[fastpages](https://github.com/raisinbran25/fastpages)** [^1].
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+This will take you to Dylan.G's blog **[fastpages](https://github.com/fastai/fastpages)** [^1].
+
