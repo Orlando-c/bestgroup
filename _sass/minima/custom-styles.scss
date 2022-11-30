@@ -10,12 +10,12 @@
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
  
-$high-emph: rgba(#92aae3, 0.87);
-$med-emph: rgba(#92aae3, 0.69); 
-$low-emph: rgba(#92aae3, 0.38);
-$dark-grey : #303030;
-$overlay: mix($dark-grey, #92aae3, 95%);
-$overlay-light: mix($dark-grey, #92aae3, 86%);
+$high-emph: rgba(#a1b4e3, 0.87);
+$med-emph: rgba(#a1b4e3, 0.69); 
+$low-emph: rgba(#a1b4e3, 0.38);
+$dark-grey : #292929;
+$overlay: mix($dark-grey, #a1b4e3, 95%);
+$overlay-light: mix($dark-grey, #a1b4e3, 86%);
  
 html, body, input, textarea, select, button {  
  color: $high-emph !important;
@@ -23,7 +23,7 @@ html, body, input, textarea, select, button {
 }
  
 a {
-   color: #92aae3 !important;
+   color: #a1b4e3 !important;
 }
  
 a:hover {
